@@ -9,8 +9,8 @@
 
 body,
 html {
-  background-color: #000;
-  color: #fff;
+  background-color: rgb(1, 1, 7);
+  color: rgb(255, 255, 255);
 }
 
 a,
@@ -20,3 +20,12 @@ a:visited {
   text-decoration: none;
 }
 
+.dsmeta-container {
+  width: 100%;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+#sales {
+  padding: 40px 10px;
+}
