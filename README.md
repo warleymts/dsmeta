@@ -27,3 +27,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 
 O Projeto é um app de controle de vendas com API integrada que envia SMS.
+  [https://](https://dsmeta-warleymts.netlify.app/)
